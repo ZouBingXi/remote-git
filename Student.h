@@ -109,3 +109,7 @@ public:
 	void degreeStanderOfSecond();
 	void degree();
 };
+
+class test1{
+	
+}
